@@ -17,6 +17,9 @@
         ],
         "treatment": "Medication like levothyroxine may be prescribed by a doctor."
       },
+
+
+
       {
         "name": "Diabetes",
         "imagesrc":"diabeties.jpg",
@@ -34,6 +37,9 @@
         ],
         "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
       },
+
+
+      
       {
         "name": "High Blood Pressure",
         "imagesrc":"blood_pressure.jpg",
